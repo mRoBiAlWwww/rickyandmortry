@@ -25,7 +25,7 @@ You may list what feature you created, example :
 
 You may list what libraries you used in this project, example :
 
-- Flutter (version)
+- Flutter (Clean Architecture)
 - BLoC/Cubit as State Management
 - Getit as Dependency Injection
 - Motion_toast as Toast Notification

@@ -2,7 +2,7 @@
 
 ## <a name="introduction"></a> Introduction :
 
-This is a simple application for getting to know characters from the Rick and Morty cartoon, where users can search for characters, view character details, and add them to their favorites. This application is built using Flutter with BLoC/Cubit as the state management approach and follows Clean Architecture principles. It is also powered by the Rick and Morty API (rickandmortyapi.com).
+This is a simple application for getting to know characters from the Rick and Morty cartoon, where users can search for characters, view character details, and add them to their favorites. This application is built using Flutter with BLoC/Cubit as the state management and follows Clean Architecture principles. It is also powered by the Rick and Morty API (rickandmortyapi.com).
 
 ## Table of Contents
 

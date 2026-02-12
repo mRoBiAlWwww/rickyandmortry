@@ -1,8 +1,7 @@
-# Abaikan file web dari statistik bahasa
-web/* linguist-vendored
+web/** linguist-vendored
 
-# Abaikan file HTML specific
-*.html linguist-vendored
+*.html linguist-detectable=false
+*.css linguist-detectable=false
+*.js linguist-detectable=false
 
-# Pastikan Dart tetap terdeteksi
 *.dart linguist-detectable=true
